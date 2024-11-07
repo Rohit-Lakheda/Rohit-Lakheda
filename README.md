@@ -1,39 +1,21 @@
-# Hi there 👋 I'm Rohit Lakheda!
+# 👋 Hi, I'm **Rohit Lakheda**!
 
-I'm a passionate .NET Developer with a strong interest in mathematics and solving logical problems. I’ve recently completed my BCA and I’m now employed as .Net developer. I love experimenting with new technologies, especially in the world of ASP.NET and web development. Currently, I'm working on an inventory management system using ASP.NET MVC and Entity Framework. 🚀
+I'm a **.NET Developer** passionate about building scalable web applications. I love experimenting with new technologies and solving logical problems. 💡
 
-## 🔧 Skills & Technologies
+## 🛠️ Skills and Tools
 
-- **Languages**: C#, C++, C, JavaScript, HTML, CSS
-- **Frameworks & Tools**: ASP.NET WebForms, ASP.NET MVC, Entity Framework
-- **Databases**: SQL Server (SSMS)
-- **Other Interests**: Experimenting with Prompting, problem-solving, and mathematics.
+- **Languages**: C#, JavaScript, C++, SQL
+- **Frameworks**: ASP.NET, ASP.NET MVC, WebForms
+- **Database**: SQL Server
+- **Tools**: Visual Studio, SSMS
 
-## 🛠️ Current Projects
-
-### **Inventory Management System**
-- Working on an inventory management project using **ASP.NET MVC** and **Entity Framework**.
-- Implementing features such as stock management, and reports.
-
-### **ASP.NET WebForms Projects**
-- Created multiple projects with **ASP.NET WebForms** including user authentication, authorization, and payment gateway integration.
-- Integrated **WhatsApp** and **email notifications** for better user experience.
-- Solved a critical issue related to **payment gateway capture**.
-
-## 🌱 I'm currently learning:
-- Exploring deeper into **ASP.NET Core** and **Microservices**.
-- Working on improving my skills in **Cloud Technologies** (Azure, AWS).
-
-## 📬 Get in touch with me!
-- 📧 Email: [lakhedarohit@gmail.com](mailto:lakhedarohit@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/rohit-lakheda](https://www.linkedin.com/in/rohit-lakheda)
-
-## 🏆 Open Source Contributions
-
-- Currently, I am focusing on contributing to **.NET related open-source projects**. 
-- You can check out my contributions on GitHub and stay tuned for more updates on that front!
-
-## 🚀 GitHub Stats
+## 📊 GitHub Stats
 
 ![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit-lakheda&show_icons=true&count_private=true&theme=radical)
 
+## 💬 Fun Fact
+I'm a huge fan of **mathematics** and love solving logical puzzles in my free time. 🧩
+
+## 🚀 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/rohit-lakheda)
+- Email: [lakhedarohit@gmail.com](mailto:lakhedarohit@gmail.com)
