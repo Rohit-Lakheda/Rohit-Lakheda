@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Rohit Lakheda!
 
-I'm a passionate .NET Developer with a strong interest in mathematics and solving logical problems. I’ve recently completed my BCA and I’m now employed as a .Net developer. I love experimenting with new technologies, especially in the world of ASP.NET and web development. Currently, I'm working on an inventory management system using ASP.NET MVC and Entity Framework. 🚀
+I'm a passionate .NET Developer with a strong interest in mathematics and solving logical problems. I’ve recently completed my BCA and I’m now employed as .Net developer. I love experimenting with new technologies, especially in the world of ASP.NET and web development. Currently, I'm working on an inventory management system using ASP.NET MVC and Entity Framework. 🚀
 
 ## 🔧 Skills & Technologies
 
