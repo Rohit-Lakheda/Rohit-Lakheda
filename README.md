@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Rohit Lakheda!
 
-I'm a passionate .NET Developer with a strong interest in mathematics and solving logical problems. I’ve recently completed my BCA and doing my MCA. I’m currently employed as .Net developer. I love experimenting with new technologies, especially in the world of ASP.NET and web development. Currently, I'm working on an Exhibiton Registration systems and much more. 🚀
+I'm a passionate .NET Developer with a strong interest in mathematics and solving logical problems. I’ve recently completed my BCA and doing my MCA. I’m currently employed as .Net developer. I love experimenting with new technologies, especially in the world of ASP.NET and web development. Currently, I'm working on Exhibiton Registration systems and much more. 🚀
 
 ## 🔧 Skills & Technologies
 
