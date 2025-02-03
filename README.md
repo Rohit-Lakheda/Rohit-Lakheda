@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Rohit Lakheda!
 
-I'm a passionate .NET Developer with a strong interest in mathematics and solving logical problems. I’ve recently completed my BCA and I’m now employed as .Net developer. I love experimenting with new technologies, especially in the world of ASP.NET and web development. Currently, I'm working on an inventory management system using ASP.NET MVC and Entity Framework. 🚀
+I'm a passionate .NET Developer with a strong interest in mathematics and solving logical problems. I’ve recently completed my BCA and I’m now employed as .Net developer. I love experimenting with new technologies, especially in the world of ASP.NET and web development. Currently, I'm working on an Exhibiton Registration systems and much more. 🚀
 
 ## 🔧 Skills & Technologies
 
 - **Languages**: C#, C++, C, JavaScript, HTML, CSS
-- **Frameworks & Tools**: ASP.NET WebForms, ASP.NET MVC, Entity Framework
+- **Frameworks & Tools**: ASP.NET WebForms, MVC
 - **Databases**: SQL Server (SSMS)
 - **Other Interests**: Experimenting with Prompting, problem-solving, and mathematics.
 
@@ -21,8 +21,8 @@ I'm a passionate .NET Developer with a strong interest in mathematics and solvin
 - Solved a critical issue related to **payment gateway capture**.
 
 ## 🌱 I'm currently learning:
-- Exploring deeper into **ASP.NET Core** and **Microservices**.
-- Working on improving my skills in **Cloud Technologies** (Azure, AWS).
+- Exploring deeper into **ASP.NET**.
+- Working on improving my skills in **App Development and Web Development**.
 
 ## 📬 Get in touch with me!
 - 📧 Email: [lakhedarohit@gmail.com](mailto:lakhedarohit@gmail.com)
