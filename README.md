@@ -11,9 +11,9 @@ I'm a passionate .NET Developer with a strong interest in mathematics and solvin
 
 ## 🛠️ Current Projects
 
-### **Inventory Management System**
-- Working on an inventory management project using **ASP.NET MVC** and **Entity Framework**.
-- Implementing features such as stock management, and reports.
+### **Exhibition Registration Systems**
+- Working on an Exhibition Registration Systems using **ASP.NET** and **C#,HTML, CSS, JS, SQL**.
+- Implementing features such as SMS, Whatsapp, Email, Payment integration, Authorization, Authentication, seamless user data management, Dashboards and more.
 
 ### **ASP.NET WebForms Projects**
 - Created multiple projects with **ASP.NET WebForms** including user authentication, authorization, and payment gateway integration.
