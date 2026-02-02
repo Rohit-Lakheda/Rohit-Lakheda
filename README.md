@@ -17,5 +17,3 @@ Software Developer with a focus on scalable solutions. I work on web application
 
 - **LinkedIn:** [linkedin.com/in/rohit-lakheda](https://www.linkedin.com/in/rohit-lakheda)  
 - **Email:** lakhedarohit@gmail.com  
-
-Based in Delhi, India.
